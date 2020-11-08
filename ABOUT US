@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <header>
+        <meta charset = "utf-8">
+        <title>ABOUT US</title>
+        <link rel="stylesheet" href=uneedlabs.css>
+        <img src="ADD IMAGE FILE HERE.jpg" alt="Image" height="108" width="148" style="padding: 0 15px; float:left;">
+        
+    </header>
+        <body>
+            <h4>About Us</h4>
+            <p>U-Needs Labs started as an online website in October 8, 2019 to promote research efforts in the ares of pharmaceutical sciences; biology; chemistry; and envionrmental sciences towards improving the general health and well being of the public.  Many of the topics discussed are not things that the general public wants, but much of the content discusses topics the general public needs.  The author has published an invited book chapter in nano-sensor technologies and has several peer-reviewed publications.  He has completed a Doctorate in 2012; Master's in 2008; Bachelor's in 2004.
+            </p>
+            <br>
+            <p>He was born in St. Paul, Minnesota.  He has been lucky enough to meet many caring and wonderful people from several different countries.  He believes that manyh of these caring and wonderful people take a vested interest in attempting to protect their neighbor's well being, health, and family.  On one occasion, when he was young he used the phrase, <i>...If I get a dog, I will never ask for anything else..."</i> and it worked.  This clearly was a lie, because he is asking you now to exercise caution when dealing with the subject's discussed on this webiste.</p>
+        </body>
+        <footer>
+            <ABOUT US> | HOME PAGE | CONTACT US
+            <p center-left><i>this page was lasted updated on October 28, 2019 by Mike Scott, Ph.D.</i></p>
+        </footer>
+</html>
